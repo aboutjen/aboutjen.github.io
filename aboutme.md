@@ -78,6 +78,6 @@ subtitle: Backend developer
 ---
 
 ### 그 외
-* AWS Certified Solutions Architect - Associate　2020.12.31 취득
-* DAsP(데이터아키텍처 준전문가)　2017.04.25 취득
+* AWS Certified Solutions Architect - Associate　(2020.12.31 취득)
+* DAsP - 데이터아키텍처 준전문가　(2017.04.25 취득)
 * ()
