@@ -35,7 +35,7 @@ subtitle: Backend developer
 ###### MSA 방송영역 프로젝트
 + GS홈쇼핑, 2021.01 ~
 + 새로운 아키텍처 도입(Kafka 추가)으로 방송영역 프로젝트 착수(현재 as-is 분석, 설계 단계)
-+ `기술` Spring, JPA, Kafka, Gradle, 
++ `기술` Spring, JPA, Kafka, Gradle, ...
 
 ###### MSA 상품영역 프로젝트 
 + GS홈쇼핑, 2020.10 ~ 2020.12
@@ -51,7 +51,6 @@ subtitle: Backend developer
     - 역할 : 전자전표시스템에 업무차량 관리(조회, 업데이트) 화면 개발, 차량정보 조회 API 개발
     - `기술`  Miplatform(화면), Oracle DB, Java, Spring Boot, Junit Test, Mybatis, Maven, REST API, Swagger, Jenkins
     - 설계-개발-사용자테스트-배포 모두 직접하게 된 프로젝트, Scouter 모니터링 툴 사용
-    - (화면)
 
 ###### 전자전표 - 업무지원 이용내역 결재 기능 개발
 + GS홈쇼핑, 2020.03 ~ 2020.05
@@ -59,7 +58,6 @@ subtitle: Backend developer
     - 역할 : 전자전표에 업무지원 이용내역 조회, 등록, 삭제, 수정, 결재요청 기능 개발
     - `기술`  Miplatform(화면), Oracle DB, Java, Spring Boot, Junit Test, Mybatis, Maven, REST API, Swagger, Jenkins
     - 그룹웨어의 결재승인 화면을 담당한 베트남 현지 개발자와 소통, 한 화면에서 데이터를 관리하고 결재대상자 모두에게 한번에 결재요청까지 할수 있게 됨
-    - (화면)
 
 ###### RPA - 인사팀 인원 월마감 프로세스 개발
 + GS홈쇼핑, 2020.11 ~ 2020.12
