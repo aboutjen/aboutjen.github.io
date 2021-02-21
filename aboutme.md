@@ -31,7 +31,7 @@ subtitle: Backend developer
 ---
 
 ### 프로젝트 
-<br>
+
 ###### MSA 방송영역 프로젝트
 + GS홈쇼핑, 2021.01 ~
 + 새로운 아키텍처 도입(Kafka 추가)으로 방송영역 프로젝트 착수(현재 as-is 분석, 설계 단계)
@@ -42,7 +42,7 @@ subtitle: Backend developer
 + 상품영역 MSA 프로젝트, 미사용 기능 정리 및 Java8 & SpringBoot 적용(Backend), 리액트로 웹화면 구성 목표(Frontend)
     - 역할 : 상품영역 중 100여개의 기능을 할당받아 REST API로 전환 작업
     - `기술`  Java, Spring Boot, JPA, Mybatis, Gradle, REST API, Swagger, Jenkins
-    - 20개 URL 개발완료, 새 아키텍처 도입 결정으로 상품영역 프로젝트 일시중단 / <br>
+    - 20개 URL 개발완료, 새 아키텍처 도입 결정으로 상품영역 프로젝트 일시중단/ <br>
     기존 시스템(Java6, 10여년 전 구축) 소스 분석 후 새로운 API로 개발, Java8 문법 적용, 프론트엔드 개발자와 소통 위해 Swagger 사용
 
 ###### 전자전표 - 업무차량 예약시스템 기능 개발
