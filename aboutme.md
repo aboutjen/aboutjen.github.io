@@ -41,8 +41,8 @@ subtitle: Backend developer
 + GS홈쇼핑, 2020.10 ~ 2020.12
 + 상품영역 MSA 프로젝트, 미사용 기능 정리 및 Java8 & SpringBoot 적용(Backend), 리액트로 웹화면 구성 목표(Frontend)
     - 역할 : 상품영역 중 100여개의 기능을 할당받아 REST API로 전환 작업
-    - `기술`  Java, Spring Boot, Jpa, Mybatis, Gradle, REST API, Swagger, Jenkins
-    - 20개 URL 개발완료, 새로운 아키텍처 도입 결정으로 상품영역 프로젝트 일시중단 <br>
+    - `기술`  Java, Spring Boot, JPA, Mybatis, Gradle, REST API, Swagger, Jenkins
+    - 20개 URL 개발완료, 새로운 아키텍처 도입 결정으로 상품영역 프로젝트 일시중단 / <br>
     기존 시스템(Java6, 10여년 전 구축) 소스 분석 후 새로운 API로 개발, Java8 문법 적용, 프론트엔드 개발자와 소통 위해 Swagger 사용
 
 ###### 전자전표 - 업무차량 예약시스템 기능 개발
@@ -57,7 +57,7 @@ subtitle: Backend developer
 + 회사의 업무지원 내역을 확인하고 결재하는 기능을 개발, 각 개인별로 그룹웨어를 통해 이용내역을 확인하고 결재승인
     - 역할 : 전자전표에 업무지원 이용내역 조회, 등록, 삭제, 수정, 결재요청 기능 개발
     - `기술`  Miplatform(화면), Oracle DB, Java, Spring Boot, Junit Test, Mybatis, Maven, REST API, Swagger, Jenkins
-    - 그룹웨어의 결재승인 화면을 담당한 베트남 현지 개발자와 소통, 한 화면에서 데이터를 관리하고 결재대상자 모두에게 한번에 결재요청까지 할수 있게 됨
+    - 그룹웨어의 결재승인 화면을 담당한 베트남 현지 개발자와 소통, 한 화면에서 데이터를 관리하고 결재대상자 모두에게 한번에 결재요청까지 할 수 있게 됨
 
 ###### RPA - 인사팀 인원 월마감 프로세스 개발
 + GS홈쇼핑, 2020.11 ~ 2020.12
